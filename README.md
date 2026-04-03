@@ -73,7 +73,7 @@ This will start a local web server and open the NetPractice interface in your br
 - [IP Addressing and Subnetting Guide — Cisco](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
 - [What is a Default Gateway? — Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-router/)
 - [OSI Model Explained — Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- [ipcalc — IP Calculator](https://jodies.de/ipcalc) *(useful for subnet calculations)*
+- [ipcalc — IP Calculator](https://jodies.de/ipcalc)
 
 ### AI Usage
 
