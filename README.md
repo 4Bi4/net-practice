@@ -14,7 +14,7 @@ Through this project, you will gain hands-on experience with the fundamentals of
 
 ### Running the Training Interface
 
-1. Download the project files from the project page.
+1. Download the project files from the intra page.
 2. Extract them into a folder of your choice.
 3. In that folder, run the launch script:
 
